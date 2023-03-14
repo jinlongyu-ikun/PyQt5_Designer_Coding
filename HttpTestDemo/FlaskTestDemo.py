@@ -4,13 +4,20 @@
 
 from flask import Flask, request, jsonify
 import threading
+import json
 
 app = Flask(__name__)
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
-    username = request.args.get('username')
-    password = request.args.get('password')
+    if request.method == 'GET':
+        username = request.args.get('username')
+        password = request.args.get('password')
+    elif request.method == 'POST':
+        data = request.get_json()
+        data_json = json.loads(data)
+        username = data_json["username"]
+        password = data_json['password']
 
     if username == 'admin' and password == 'admin123':
         return jsonify({'status': 'success', 'message': '登录成功'})
