@@ -11,3 +11,6 @@
 ![1234](https://user-images.githubusercontent.com/127218958/224742944-9f60bebb-690d-4090-aa3e-f3a2494c6e88.PNG)
 
 ![4322](https://user-images.githubusercontent.com/127218958/224742951-448d809c-3bc3-47da-a207-87ba90101391.PNG)
+
+#2023-03-14
+优化代码,定义部分成员变量,拆分方法,修改get、post请求传接参格式
