@@ -14,3 +14,25 @@
 
 #2023-03-14
 优化代码,定义部分成员变量,拆分方法,修改get、post请求传接参格式
+
+#2023-03-16
+增加了一个图像处理工具,image、GIF转字符画,大致效果如下：
+
+
+![cai](https://user-images.githubusercontent.com/127218958/225530974-e030d452-7ff1-4923-876a-c0638d087ff4.jpg)
+
+![43256](https://user-images.githubusercontent.com/127218958/225530985-0d7c7575-43e9-494b-a093-1b5ea2a56581.PNG)
+
+![123](https://user-images.githubusercontent.com/127218958/225531081-28cbb69a-82b4-4e27-b6ad-94771f7c4296.jpg)
+
+![34267](https://user-images.githubusercontent.com/127218958/225531103-c997dd6d-b2ab-4e1e-a9b2-7e7992eddc62.PNG)
+
+![ciacaizi](https://user-images.githubusercontent.com/127218958/225531150-0399812e-684a-40e4-b091-c113ac11074e.gif)
+
+![ciacaizi_3950](https://user-images.githubusercontent.com/127218958/225531184-4cd00604-e533-4c7c-b093-87eedff9b3b7.gif)
+
+![3](https://user-images.githubusercontent.com/127218958/225531216-ebc4d680-d1a8-4751-8e5e-1520f7b70292.jpg)
+
+![45377](https://user-images.githubusercontent.com/127218958/225531236-3f15d27c-7fa9-4074-8117-78243c839208.PNG)
+
+这是根据比例缩放图片了，后续增加指定宽高裁剪图片的功能和词频统计功能。
