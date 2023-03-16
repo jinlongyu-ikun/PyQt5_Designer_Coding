@@ -16,6 +16,7 @@
 优化代码,定义部分成员变量,拆分方法,修改get、post请求传接参格式
 
 #2023-03-16
+参考：https://www.degraeve.com/img2txt.php   https://zhuanlan.zhihu.com/p/573554229
 增加了一个图像处理工具,image、GIF转字符画,大致效果如下：
 
 
