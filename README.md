@@ -37,3 +37,8 @@
 ![45377](https://user-images.githubusercontent.com/127218958/225531236-3f15d27c-7fa9-4074-8117-78243c839208.PNG)
 
 这是根据比例缩放图片了，后续增加指定宽高裁剪图片的功能和词频统计功能。
+
+#2023-03-22
+增加调用API随机获取并下载猫猫图片工具，效果如下：
+
+![876](https://user-images.githubusercontent.com/127218958/226775016-b7ab58ae-964a-4011-8b80-71ea8211de83.PNG)
