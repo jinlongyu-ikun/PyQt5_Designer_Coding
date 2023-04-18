@@ -44,7 +44,7 @@
 ![876](https://user-images.githubusercontent.com/127218958/226775016-b7ab58ae-964a-4011-8b80-71ea8211de83.PNG)
 
 #2023-04-18
-增加读取docx文档,检索文档内容并语音播报对应段落工具
+增加读取docx文档,检索文档内容并语音播报对应段落工具(点击播放某一段落后,在没播放完毕情况下点击播放其他段落暂时会闪退)
 
 ![4356](https://user-images.githubusercontent.com/127218958/232727912-6e6cf4de-d792-4e7f-aae0-60a0a8349e10.PNG)
 
